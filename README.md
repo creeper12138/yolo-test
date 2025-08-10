@@ -289,7 +289,3 @@ The author is not responsible for misuse.
 * [dxcam](https://github.com/Prayag2/dxcam)
 * [pynput](https://pynput.readthedocs.io/en/latest/)
 * [Torch (CUDA)](https://pytorch.org)
-
----
-
-Let me know if you'd like this split into multiple language versions (`README.md` + `README.zh.md`) or if you'd like an auto-generated `requirements.txt` and `dxcam` patch template.
