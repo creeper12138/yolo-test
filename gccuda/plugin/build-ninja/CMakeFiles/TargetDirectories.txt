@@ -1,0 +1,3 @@
+D:/NSYS/gccuda/plugin/build-ninja/CMakeFiles/ghostconv_trt.dir
+D:/NSYS/gccuda/plugin/build-ninja/CMakeFiles/edit_cache.dir
+D:/NSYS/gccuda/plugin/build-ninja/CMakeFiles/rebuild_cache.dir
